@@ -22,3 +22,6 @@
 [submodule "vendor/orion"]
 	path = vendor/orion
 	url = https://github.com/theos/orion.git
+[submodule "include/PSHeaders"]
+	path = include/PSHeaders
+	url = https://github.com/PoomSmart/PSHeader.git
